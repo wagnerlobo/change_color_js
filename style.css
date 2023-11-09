@@ -1,0 +1,31 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(32, 10, 85);
+}
+
+.btn {
+
+    padding: 20px 60px;
+    border: 2px solid rgb(6, 240, 45);
+    background: black;
+    color: #fff;
+    font-size: 30px;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 40px #01ff41;
+    cursor: pointer;
+
+}
